@@ -659,7 +659,7 @@ def write_markdown(survey: Survey, output_path: Path) -> None:
 
 def print_usage() -> None:
     print("用法: python wjx_to_docx.py <问卷链接>")
-    print("示例: python wjx_to_docx.py https://v.wjx.cn/vm/wPiiM7G.aspx")
+    print("示例: python wjx_to_docx.py https://v.wjx.cn/vm/aaaaa.aspx")
 
 
 def main(argv: List[str]) -> int:
